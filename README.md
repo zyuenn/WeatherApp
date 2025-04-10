@@ -1,8 +1,10 @@
 ﻿# 3D Weather App
 
-**MWeather** is a weather visualizer that uses  **Three.js**, **Express**, and **MongoDB** to render 3D scenes based on real-time weather data from the **OpenWeather API**. Users can explore the weather around the world, with the option to save locations as they go! It features animated skies, sunlight/sunset transitions, a interactive camera, and a beautiful terrain.
+**Weather** is a weather visualizer that uses  **Three.js**, **Express**, and **MongoDB** to render 3D scenes based on real-time weather data from the **OpenWeather API**. Users can explore the weather around the world, with the option to save locations as they go! It features animated skies, sunlight/sunset transitions, a interactive camera, and a beautiful terrain.
 
 ![screenshot](https://github.com/user-attachments/assets/a99b115b-e8fc-46f4-83a6-fde0ee101d00)
+![rainWeather](https://github.com/user-attachments/assets/319731eb-3c90-48c8-9d93-d0195c36f558)
+
 
 
 ## Installation
